@@ -2,7 +2,7 @@
 My test projects.
 
 
-
+<!DOCTYPE html>
 
 <html>
   
