@@ -2,5 +2,5 @@
 My test projects.
 
 <html>
-  <p>hi</p>
+  <h1>hi</h1>
 </html>
