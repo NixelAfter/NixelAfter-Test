@@ -5,5 +5,11 @@ My test projects.
 
 
 <html>
-  <h1>¡Holá!</h1g
+  
+  <style>
+    .l12 {
+    text-align: center;
+    }
+  </style>
+  <h1 class="l12">¡Holá!</h1g
 </html>
